@@ -1,0 +1,35 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+
+}
+
+h1{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    font-size: 45px; 
+}
+
+div#p1{
+    text-align: center;
+}
+div#p2{
+    text-align: center;
+}
+
+img#img1{
+    
+  border-radius: 70px;
+  border-bottom: 70px;
+  width: 165px;
+  padding-bottom: 30px;
+}
+
+img#linkedin{
+    width: 40px;
+    
+}
